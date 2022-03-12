@@ -23,7 +23,7 @@ To get a local copy up and running follow these simple example steps.
 
 - GitHub: [@Mucyosoda](https://github.com/Mucyosoda)
 - Twitter: [@mucyoclaude](https://twitter.com/@ClaudeMucyo1)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/mucyoclaude)
+- LinkedIn: [mucyoclaude](https://www.linkedin.com/in/mucyoclaude)
 
 ## 🤝 Contributing
 
